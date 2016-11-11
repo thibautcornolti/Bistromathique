@@ -24,3 +24,5 @@ Exemple:
 
 Projet mis à titre d'exemple pour vous aider a vous inspirer.
 <br>Copier le projet tel quel est inutile pour progresser.
+
+<br>Dévelopé par Victorien Fischer, Yann Probst et Thibaut Cornolti.
